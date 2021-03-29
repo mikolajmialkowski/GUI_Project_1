@@ -1,0 +1,531 @@
+// s20635 OBECNY STAN OSIEDLI: 
+
+**********************************LISTA OSIEDLI**********************************
+
+1) ID OSIEDLA: 11
+2) ID OSIEDLA: 12
+3) ID OSIEDLA: 13
+
+*********************************LISTA BUDYNKOW**********************************
+
+---------------------------------------------------------------------------------
+Osiedle: 1
+---------------------------------------------------------------------------------
+1) ID BLOKU: 101
+2) ID BLOKU: 102
+3) ID BLOKU: 103
+---------------------------------------------------------------------------------
+Osiedle: 2
+---------------------------------------------------------------------------------
+1) ID BLOKU: 104
+2) ID BLOKU: 105
+3) ID BLOKU: 106
+---------------------------------------------------------------------------------
+Osiedle: 3
+---------------------------------------------------------------------------------
+1) ID BLOKU: 107
+2) ID BLOKU: 108
+
+
+**********************LISTA POMIESZCZEN POSORTOWANA ROSNACO**********************
+
+---------------------------------------------------------------------------------
+1) Pomieszczenie o ID: 1019 ma objetosc: 38.0
+---------------------------------------------------------------------------------
+2) Pomieszczenie o ID: 1018 ma objetosc: 40.0
+---------------------------------------------------------------------------------
+3) Pomieszczenie o ID: 1001 ma objetosc: 60.0
+---------------------------------------------------------------------------------
+4) Pomieszczenie o ID: 1004 ma objetosc: 70.0
+---------------------------------------------------------------------------------
+5) Pomieszczenie o ID: 1002 ma objetosc: 75.0
+---------------------------------------------------------------------------------
+6) Pomieszczenie o ID: 1005 ma objetosc: 80.0
+---------------------------------------------------------------------------------
+7) Pomieszczenie o ID: 1033 ma objetosc: 90.0
+---------------------------------------------------------------------------------
+8) Pomieszczenie o ID: 1003 ma objetosc: 90.0
+---------------------------------------------------------------------------------
+9) Pomieszczenie o ID: 1031 ma objetosc: 100.0
+---------------------------------------------------------------------------------
+10) Pomieszczenie o ID: 1006 ma objetosc: 100.0
+---------------------------------------------------------------------------------
+11) Pomieszczenie o ID: 1012 ma objetosc: 101.0
+---------------------------------------------------------------------------------
+12) Pomieszczenie o ID: 1011 ma objetosc: 104.0
+---------------------------------------------------------------------------------
+13) Pomieszczenie o ID: 1010 ma objetosc: 105.0
+---------------------------------------------------------------------------------
+14) Pomieszczenie o ID: 1007 ma objetosc: 105.0
+---------------------------------------------------------------------------------
+15) Pomieszczenie o ID: 1032 ma objetosc: 110.0
+---------------------------------------------------------------------------------
+16) Pomieszczenie o ID: 1008 ma objetosc: 125.0
+---------------------------------------------------------------------------------
+17) Pomieszczenie o ID: 1009 ma objetosc: 135.0
+---------------------------------------------------------------------------------
+18) Pomieszczenie o ID: 1013 ma objetosc: 137.0
+---------------------------------------------------------------------------------
+19) Pomieszczenie o ID: 1017 ma objetosc: 140.0
+---------------------------------------------------------------------------------
+20) Pomieszczenie o ID: 1016 ma objetosc: 140.0
+---------------------------------------------------------------------------------
+21) Pomieszczenie o ID: 1015 ma objetosc: 140.0
+---------------------------------------------------------------------------------
+22) Pomieszczenie o ID: 1014 ma objetosc: 140.0
+---------------------------------------------------------------------------------
+23) Pomieszczenie o ID: 1030 ma objetosc: 150.0
+---------------------------------------------------------------------------------
+24) Pomieszczenie o ID: 1029 ma objetosc: 150.0
+---------------------------------------------------------------------------------
+25) Pomieszczenie o ID: 1028 ma objetosc: 150.0
+---------------------------------------------------------------------------------
+26) Pomieszczenie o ID: 1037 ma objetosc: 160.0
+---------------------------------------------------------------------------------
+27) Pomieszczenie o ID: 1038 ma objetosc: 165.0
+---------------------------------------------------------------------------------
+28) Pomieszczenie o ID: 1036 ma objetosc: 170.0
+---------------------------------------------------------------------------------
+29) Pomieszczenie o ID: 1034 ma objetosc: 200.0
+---------------------------------------------------------------------------------
+30) Pomieszczenie o ID: 1035 ma objetosc: 225.0
+---------------------------------------------------------------------------------
+31) Pomieszczenie o ID: 1021 ma objetosc: 280.0
+---------------------------------------------------------------------------------
+32) Pomieszczenie o ID: 1020 ma objetosc: 290.0
+---------------------------------------------------------------------------------
+33) Pomieszczenie o ID: 1022 ma objetosc: 350.0
+---------------------------------------------------------------------------------
+34) Pomieszczenie o ID: 1023 ma objetosc: 390.0
+
+
+****************************LISTA WOLNYCH POMIESZCZEN****************************
+
+---------------------------------------------------------------------------------
+Osiedle: 1
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Blok: 101
+---------------------------------------------------------------------------------
+W tym bloku nie ma wolnych pomieszczen
+---------------------------------------------------------------------------------
+Blok: 102
+---------------------------------------------------------------------------------
+W tym bloku nie ma wolnych pomieszczen
+---------------------------------------------------------------------------------
+Blok: 103
+---------------------------------------------------------------------------------
+1) ID WOLNEGO POMIESZCZENIA: 1008
+2) ID WOLNEGO POMIESZCZENIA: 1013
+3) ID WOLNEGO POMIESZCZENIA: 1032
+4) ID WOLNEGO POMIESZCZENIA: 1033
+---------------------------------------------------------------------------------
+Osiedle: 2
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Blok: 104
+---------------------------------------------------------------------------------
+1) ID WOLNEGO POMIESZCZENIA: 1010
+---------------------------------------------------------------------------------
+Blok: 105
+---------------------------------------------------------------------------------
+W tym bloku nie ma wolnych pomieszczen
+---------------------------------------------------------------------------------
+Blok: 106
+---------------------------------------------------------------------------------
+W tym bloku nie ma wolnych pomieszczen
+---------------------------------------------------------------------------------
+Osiedle: 3
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Blok: 107
+---------------------------------------------------------------------------------
+1) ID WOLNEGO POMIESZCZENIA: 1021
+2) ID WOLNEGO POMIESZCZENIA: 1037
+---------------------------------------------------------------------------------
+Blok: 108
+---------------------------------------------------------------------------------
+W tym bloku nie ma wolnych pomieszczen
+
+
+*************LISTA PRZEDMIOTOW POSORTOWANYCH MALEJACO LUB PO NAZWIE**************
+
+---------------------------------------------------------------------------------
+Osiedle: 1
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Blok: 101
+---------------------------------------------------------------------------------
+Pomieszczenie: 1001
+1) Przedmiot o ID: 701 , nazwie: Telewizor Sony ma objetosc: 4.0
+Pomieszczenie: 1002
+W pomieszczeniu nie ma Przedmiotow
+Pomieszczenie: 1003
+1) Przedmiot o ID: 702 , nazwie: Szafka ma objetosc: 16.0
+---------------------------------------------------------------------------------
+Blok: 102
+---------------------------------------------------------------------------------
+Pomieszczenie: 1004
+W pomieszczeniu nie ma Przedmiotow
+Pomieszczenie: 1005
+1) Przedmiot o ID: 703 , nazwie: Telefon ma objetosc: 1.0
+Pomieszczenie: 1006
+1) Przedmiot o ID: 704 , nazwie: Pralka ma objetosc: 8.0
+Pomieszczenie: 1028
+1) Przedmiot o ID: 718 , nazwie: Doniczka ma objetosc: 8.0
+Pomieszczenie: 1029
+W pomieszczeniu nie ma Przedmiotow
+Pomieszczenie: 1030
+W pomieszczeniu nie ma Przedmiotow
+---------------------------------------------------------------------------------
+Blok: 103
+---------------------------------------------------------------------------------
+Pomieszczenie: 1007
+1) Przedmiot o ID: 705 , nazwie: Lodowka ma objetosc: 9.0
+Pomieszczenie: 1008
+W pomieszczeniu nie ma Przedmiotow
+Pomieszczenie: 1009
+W pomieszczeniu nie ma Przedmiotow
+Pomieszczenie: 1013
+W pomieszczeniu nie ma Przedmiotow
+Pomieszczenie: 1031
+W pomieszczeniu nie ma Przedmiotow
+Pomieszczenie: 1032
+W pomieszczeniu nie ma Przedmiotow
+Pomieszczenie: 1033
+W pomieszczeniu nie ma Przedmiotow
+---------------------------------------------------------------------------------
+Osiedle: 2
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Blok: 104
+---------------------------------------------------------------------------------
+Pomieszczenie: 1010
+W pomieszczeniu nie ma Przedmiotow
+Pomieszczenie: 1011
+1) Przedmiot o ID: 706 , nazwie: Lampka nocna ma objetosc: 1.0
+Pomieszczenie: 1012
+1) Przedmiot o ID: 707 , nazwie: Kaloryfer ma objetosc: 5.0
+---------------------------------------------------------------------------------
+Blok: 105
+---------------------------------------------------------------------------------
+Pomieszczenie: 1014
+W pomieszczeniu nie ma Przedmiotow
+Pomieszczenie: 1015
+W pomieszczeniu nie ma Przedmiotow
+Pomieszczenie: 1016
+1) Przedmiot o ID: 709 , nazwie: Komputer ma objetosc: 2.0
+Pomieszczenie: 1017
+1) Przedmiot o ID: 710 , nazwie: Zmywarka ma objetosc: 5.0
+Pomieszczenie: 1034
+1) Przedmiot o ID: 719 , nazwie: Stol ma objetosc: 15.0
+Pomieszczenie: 1035
+W pomieszczeniu nie ma Przedmiotow
+---------------------------------------------------------------------------------
+Blok: 106
+---------------------------------------------------------------------------------
+Pomieszczenie: 1018
+1) Przedmiot o ID: 711 , nazwie: Dzbanek ma objetosc: 1.0
+Pomieszczenie: 1019
+1) Przedmiot o ID: 712 , nazwie: Czajnik ma objetosc: 2.0
+Pomieszczenie: 1036
+W pomieszczeniu nie ma Przedmiotow
+---------------------------------------------------------------------------------
+Osiedle: 3
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Blok: 107
+---------------------------------------------------------------------------------
+Pomieszczenie: 1020
+1) Przedmiot o ID: 713 , nazwie: Bieznia ma objetosc: 25.0
+Pomieszczenie: 1021
+W pomieszczeniu nie ma Przedmiotow
+Pomieszczenie: 1022
+1) Przedmiot o ID: 714 , nazwie: Obraz ma objetosc: 6.0
+Pomieszczenie: 1037
+W pomieszczeniu nie ma Przedmiotow
+---------------------------------------------------------------------------------
+Blok: 108
+---------------------------------------------------------------------------------
+Pomieszczenie: 1023
+1) Przedmiot o ID: 715 , nazwie: Wanna ma objetosc: 45.0
+2) Przedmiot o ID: 708 , nazwie: Odkurzacz ma objetosc: 3.0
+3) Przedmiot o ID: 716 , nazwie: Piekarnik ma objetosc: 3.0
+Pomieszczenie: 1038
+1) Przedmiot o ID: 720 , nazwie: Pianino ma objetosc: 50.0
+
+
+***************LISTA POJAZDOW POSORTOWANYCH MALEJACO LUB PO NAZWIE***************
+
+---------------------------------------------------------------------------------
+Osiedle: 1
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Blok: 101
+---------------------------------------------------------------------------------
+Pomieszczenie: 1001
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1002
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1003
+W pomieszczeniu nie ma Pojazdow
+---------------------------------------------------------------------------------
+Blok: 102
+---------------------------------------------------------------------------------
+Pomieszczenie: 1004
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1005
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1006
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1028
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1029
+1) Pojazd o ID: 726 , nazwie: Honda ma objetosc: 5.0
+Pomieszczenie: 1030
+1) Pojazd o ID: 727 , nazwie: Kayak ma objetosc: 15.0
+---------------------------------------------------------------------------------
+Blok: 103
+---------------------------------------------------------------------------------
+Pomieszczenie: 1007
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1008
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1009
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1013
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1031
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1032
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1033
+W pomieszczeniu nie ma Pojazdow
+---------------------------------------------------------------------------------
+Osiedle: 2
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Blok: 104
+---------------------------------------------------------------------------------
+Pomieszczenie: 1010
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1011
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1012
+W pomieszczeniu nie ma Pojazdow
+---------------------------------------------------------------------------------
+Blok: 105
+---------------------------------------------------------------------------------
+Pomieszczenie: 1014
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1015
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1016
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1017
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1034
+1) Pojazd o ID: 728 , nazwie: Yacht ma objetosc: 95.0
+Pomieszczenie: 1035
+W pomieszczeniu nie ma Pojazdow
+---------------------------------------------------------------------------------
+Blok: 106
+---------------------------------------------------------------------------------
+Pomieszczenie: 1018
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1019
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1036
+W pomieszczeniu nie ma Pojazdow
+---------------------------------------------------------------------------------
+Osiedle: 3
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Blok: 107
+---------------------------------------------------------------------------------
+Pomieszczenie: 1020
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1021
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1022
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1037
+W pomieszczeniu nie ma Pojazdow
+---------------------------------------------------------------------------------
+Blok: 108
+---------------------------------------------------------------------------------
+Pomieszczenie: 1023
+W pomieszczeniu nie ma Pojazdow
+Pomieszczenie: 1038
+1) Pojazd o ID: 729 , nazwie: Amfibia ma objetosc: 99.0
+
+
+**************************LISTA OSOB I INFORMACJI O NICH*************************
+
+1) 
+ imie: Alicja, nazwisko: Adamczyk,
+PESEL: 971252, adres: Aleja Kapucynow 39, dataUrodzin: 25-01-1997,
+ilosc posiadanych Pomieszczen: 4, zalegle umowy: 0, osobaID: 51
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1001
+2) 1006
+3) 1030
+4) 1011
+5) 1017
+6) 1023
+---------------------------------------------------------------------------------
+2) 
+ imie: Basia, nazwisko: Bartosiewicz,
+PESEL: 961241, adres: Aleja Kapucynow 28, dataUrodzin: 14-02-1996,
+ilosc posiadanych Pomieszczen: 2, zalegle umowy: 0, osobaID: 52
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1001
+2) 1003
+3) 1023
+---------------------------------------------------------------------------------
+3) 
+ imie: Cezary, nazwisko: Ciesla,
+PESEL: 915219, adres: Ulica Olbrachta 4, dataUrodzin: 08-08-1991,
+ilosc posiadanych Pomieszczen: 3, zalegle umowy: 0, osobaID: 53
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1004
+2) 1031
+3) 1016
+---------------------------------------------------------------------------------
+4) 
+ imie: Dausia, nazwisko: Dutkowska,
+PESEL: 921252, adres: Plac Bociana 24, dataUrodzin: 05-04-1993,
+ilosc posiadanych Pomieszczen: 3, zalegle umowy: 0, osobaID: 54
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1006
+2) 1028
+3) 1011
+---------------------------------------------------------------------------------
+5) 
+ imie: Ernest, nazwisko: Elsztaj,
+PESEL: 861252, adres: Ulica Wiejska 1, dataUrodzin: 30-12-1986,
+ilosc posiadanych Pomieszczen: 2, zalegle umowy: 0, osobaID: 55
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1001
+2) 1003
+3) 1029
+4) 1007
+---------------------------------------------------------------------------------
+6) 
+ imie: Filip, nazwisko: Fabianski,
+PESEL: 851252, adres: Ulica Wiejska 14, dataUrodzin: 30-12-1985,
+ilosc posiadanych Pomieszczen: 1, zalegle umowy: 0, osobaID: 56
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1009
+---------------------------------------------------------------------------------
+7) 
+ imie: Gloria, nazwisko: Gawlinska,
+PESEL: 971252, adres: Aleja Odrodzenia 7, dataUrodzin: 11-12-1983,
+ilosc posiadanych Pomieszczen: 3, zalegle umowy: 0, osobaID: 57
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1002
+2) 1011
+3) 1012
+---------------------------------------------------------------------------------
+8) 
+ imie: Hania, nazwisko: Helczyk,
+PESEL: 991252, adres: Aleja Guji 17, dataUrodzin: 28-04-1999,
+ilosc posiadanych Pomieszczen: 1, zalegle umowy: 0, osobaID: 58
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1014
+---------------------------------------------------------------------------------
+9) 
+ imie: Iga, nazwisko: Ibisz,
+PESEL: 741252, adres: Ulica Dluga 95, dataUrodzin: 31-07-1974,
+ilosc posiadanych Pomieszczen: 3, zalegle umowy: 0, osobaID: 59
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1014
+2) 1015
+3) 1034
+4) 1035
+---------------------------------------------------------------------------------
+10) 
+ imie: Jerzy, nazwisko: Jarlecki,
+PESEL: 6792552, adres: Ulica Kominiarzy 52, dataUrodzin: 14-09-1967,
+ilosc posiadanych Pomieszczen: 1, zalegle umowy: 0, osobaID: 60
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1004
+2) 1016
+---------------------------------------------------------------------------------
+11) 
+ imie: Kamil, nazwisko: Kaminski,
+PESEL: 5892312, adres: Plac Oswiecenia 2, dataUrodzin: 31-11-1958,
+ilosc posiadanych Pomieszczen: 1, zalegle umowy: 0, osobaID: 61
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1014
+2) 1018
+---------------------------------------------------------------------------------
+12) 
+ imie: Laura, nazwisko: Lenartowicz,
+PESEL: 9519532, adres: Plac Defild 1, dataUrodzin: 01-08-1995,
+ilosc posiadanych Pomieszczen: 2, zalegle umowy: 0, osobaID: 62
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1019
+2) 1036
+---------------------------------------------------------------------------------
+13) 
+ imie: Maja, nazwisko: Mialkiewicz,
+PESEL: 9819532, adres: Plac Defild 6, dataUrodzin: 01-08-1998,
+ilosc posiadanych Pomieszczen: 1, zalegle umowy: 0, osobaID: 63
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1020
+2) 1023
+---------------------------------------------------------------------------------
+14) 
+ imie: Nikola, nazwisko: Nagacz,
+PESEL: 9119532, adres: Aleja Stanow Zjednoczonych, dataUrodzin: 10-03-1991,
+ilosc posiadanych Pomieszczen: 1, zalegle umowy: 0, osobaID: 64
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1018
+2) 1022
+3) 1023
+---------------------------------------------------------------------------------
+15) 
+ imie: Oktawian, nazwisko: Orzechowski,
+PESEL: 9319532, adres: Plac Bankowy 13, dataUrodzin: 17-06-1993,
+ilosc posiadanych Pomieszczen: 2, zalegle umowy: 0, osobaID: 65
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1020
+2) 1023
+3) 1038
+---------------------------------------------------------------------------------
+16) 
+ imie: Piotr, nazwisko: Pachlecki,
+PESEL: 8919532, adres: Ulica Wiosny 66, dataUrodzin: 01-08-1989,
+ilosc posiadanych Pomieszczen: 0, zalegle umowy: 0, osobaID: 66
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1011
+---------------------------------------------------------------------------------
+17) 
+ imie: Roman, nazwisko: Rabczak,
+PESEL: 8319532, adres: Plac Konstytucji 14, dataUrodzin: 02-04-1983,
+ilosc posiadanych Pomieszczen: 0, zalegle umowy: 0, osobaID: 67
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+---------------------------------------------------------------------------------
+18) 
+ imie: Sandra, nazwisko: Sobiecka,
+PESEL: 8519532, adres: Plac Unii Lubelskiej 79, dataUrodzin: 21-08-1985,
+ilosc posiadanych Pomieszczen: 1, zalegle umowy: 0, osobaID: 68
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1005
+---------------------------------------------------------------------------------
+19) 
+ imie: Telimena, nazwisko: Tobczak,
+PESEL: 9219532, adres: Ulica Grenadierow 3, dataUrodzin: 01-08-1992,
+ilosc posiadanych Pomieszczen: 0, zalegle umowy: 0, osobaID: 69
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1001
+---------------------------------------------------------------------------------
+20) 
+ imie: Ula, nazwisko: Udzik,
+PESEL: 6219532, adres: Ulica Krucza 4, dataUrodzin: 24-05-1962,
+ilosc posiadanych Pomieszczen: 0, zalegle umowy: 0, osobaID: 70
+Powyzsza osoba mieszka, choc nie musi byc wlascicielem w pomieszczeniach o ID:
+1) 1001
+2) 1015
+---------------------------------------------------------------------------------
